@@ -12,3 +12,7 @@
 2. [Разнобой II](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper2.pdf "листок 2")
 3. [Разнобой III](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper3.pdf "листок 3")
 4. [Разнобой IV](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper4.pdf "листок 4")
+5. [Алгебра V](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper5.pdf)
+6. [Дискретная математика VI](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper6.pdf)
+7. [Анализ VII](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper7.pdf)
+8. [Программирование VIII](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper8.pdf)
