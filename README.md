@@ -12,7 +12,9 @@
 2. [Листок II. Разнобой](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper2.pdf "листок 2")
 3. [Листок III. Разнобой](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper3.pdf "листок 3")
 4. [Листок IV. Разнобой](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper4.pdf "листок 4")
+
 несколько следующих листков в основном написано по вступительным задачам прошлых лет в Computer Science Center
+
 5. [Листок V. Алгебра](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper5.pdf)
 6. [Листок VI. Дискретная математика](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper6.pdf)
 7. [Листок VII. Анализ](https://github.com/qnbhd/Conspects/blob/master/PapersOlympiads/paper7.pdf)
