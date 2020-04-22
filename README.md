@@ -5,6 +5,7 @@
 1. [Теория графов](https://github.com/qnbhd/Conspects/blob/master/Subjects/GraphsTheory.pdf "теория графов")
 2. [Общая алгебра](https://github.com/qnbhd/Conspects/blob/master/Subjects/Algebra.pdf "алгебра")
 3. [Операционное исчисление](https://github.com/qnbhd/Conspects/blob/master/Subjects/OperationalAnalysis.pdf "операционное исчисление")
+4. [ТФКП](https://github.com/qnbhd/Conspects/blob/master/Subjects/TFKP.pdf)
 
 Листочки для подготовки к олимпиадам:
 
