@@ -38,3 +38,4 @@
 5. [Двоичный поиск](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L5.ipynb)
 6. [Стеки, очереди. Амортизированное время](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L6.ipynb)
 7. [Система непересекающихся множеств](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L7.ipynb)
+7. [Биномиальная куча и немного Фибоначчи](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L8.ipynb)
