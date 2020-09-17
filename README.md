@@ -9,6 +9,8 @@
 3. [Общая алгебра](https://github.com/qnbhd/Conspects/blob/master/Subjects/Algebra.pdf "алгебра")
 4. [Операционное исчисление](https://github.com/qnbhd/Conspects/blob/master/Subjects/OperationalAnalysis.pdf "операционное исчисление")
 5. [ТФКП](https://github.com/qnbhd/Conspects/blob/master/Subjects/TFKP.pdf)
+6. Теоретическая информатика (soon :smile:)
+7. Теория вероятностей (soon :smile:)
 
 ---
 
@@ -29,7 +31,7 @@
 
 ---
 
-Алгоритмы:
+Алгоритмы (Маврин, старт 1):
 
 1. [Поиск min, max. Сортировка вставкой и слиянием](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L1.ipynb)
 2. [Куча. heap-sort](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L2.ipynb)
@@ -39,3 +41,18 @@
 6. [Стеки, очереди. Амортизированное время](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L6.ipynb)
 7. [Система непересекающихся множеств](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L7.ipynb)
 7. [Биномиальная куча и немного Фибоначчи](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L8.ipynb)
+
+---
+
+Алгоритмы (Маврин, старт 2):
+
+Скоро будет :)
+
+---
+
+C++
+
+Скоро будет :)
+
+---
+
