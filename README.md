@@ -1,5 +1,6 @@
 ![Иллюстрация к проекту](https://github.com/qnbhd/cs-mat/blob/master/logo.png)
 
+[![GitHub issues](https://img.shields.io/github/issues/qnbhd/cs-mat?style=for-the-badge)](https://github.com/qnbhd/cs-mat/issues)  [![GitHub stars](https://img.shields.io/github/stars/qnbhd/cs-mat?style=for-the-badge)](https://github.com/qnbhd/cs-mat/stargazers) [![GitHub license](https://img.shields.io/github/license/qnbhd/cs-mat?style=for-the-badge)](https://github.com/qnbhd/cs-mat/blob/master/LICENSE)
 # Конспекты по предметам и курсам, которые я прохожу
 
 Лекции по предметам:
@@ -50,9 +51,12 @@
 
 ---
 
-C++
+C++ 
 
-Скоро будет :)
+* White belt
 
+1) [c1w1](https://github.com/qnbhd/cs-mat/blob/master/cpp-white-belt/c1w1.pdf)
+2) [c1w2](https://github.com/qnbhd/cs-mat/blob/master/cpp-white-belt/c1w2.pdf)
+3) [c1w3](https://github.com/qnbhd/cs-mat/blob/master/cpp-white-belt/c1w3.pdf)
 ---
 
