@@ -32,7 +32,7 @@
 
 ---
 
-Алгоритмы (Маврин, старт 1):
+Алгоритмы (I):
 
 1. [Поиск min, max. Сортировка вставкой и слиянием](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L1.ipynb)
 2. [Куча. heap-sort](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L2.ipynb)
@@ -41,13 +41,14 @@
 5. [Двоичный поиск](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L5.ipynb)
 6. [Стеки, очереди. Амортизированное время](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L6.ipynb)
 7. [Система непересекающихся множеств](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L7.ipynb)
-7. [Биномиальная куча и немного Фибоначчи](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L8.ipynb)
-
+8. [Биномиальная куча и немного Фибоначчи](https://github.com/qnbhd/cs-mat/blob/master/Algo/AaSD_L8.ipynb)
+9. Хеш-таблицы, фильтр Блума
+10. Идеальное хэширование, хэширование кукушки
 ---
 
-Алгоритмы (Маврин, старт 2):
+Алгоритмы (II):
 
-Скоро будет :)
+1. [Segment tree](https://github.com/qnbhd/cs-mat/tree/master/Algo/aasd-imp/segment-tree) 
 
 ---
 
