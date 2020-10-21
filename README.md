@@ -60,3 +60,6 @@ C++
 3) [c1w3](https://github.com/qnbhd/cs-mat/blob/master/cpp-white-belt/c1w3.pdf)
 ---
 
+Beautiful map of mathematics:
+
+![Map](https://i.postimg.cc/TPnTxcBm/math-map.jpg)
