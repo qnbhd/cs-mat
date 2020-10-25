@@ -60,6 +60,10 @@ C++
 3) [c1w3](https://github.com/qnbhd/cs-mat/blob/master/cpp-white-belt/c1w3.pdf)
 ---
 
+Math train [2]
+
+1) [Train 1](https://github.com/qnbhd/cs-mat/blob/master/olymp/train1.pdf)
+
 Beautiful map of mathematics:
 
 ![Map](https://i.postimg.cc/TPnTxcBm/math-map.jpg)
